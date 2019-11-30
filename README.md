@@ -1,6 +1,6 @@
 # Filter From Excel To Excel
 
-Filtering failure students from Excel spreadsheet. 
+Filtering failure students from Excel spreadsheet by mark. 
 
 ## Getting Started
 
