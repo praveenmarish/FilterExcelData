@@ -14,17 +14,17 @@ This project can be used to filter failure student from the Excel spread sheet a
 
 ### Procedure
 
-1.Create a Excel document with two sheets (Sheet 1 & Sheet 2).
-2.Enter the student details on the sheet 1.
-3.Leave the Sheet 2 as blank.
-4.Open UiPath Studio and select 'Create new project' 
-5.Select the activity Tab and drag and drop a sequence.
-6.Insert an message box into sequence to display an message.
-7.Assign the variables.
-8.Read the data from sheet 1.
-9.Add a filter using Filter Data Table.
-10.Write the filtered data to the sheet 2.
-11.Execute the program.
+1. Create a Excel document with two sheets (Sheet 1 & Sheet 2).
+2. Enter the student details on the sheet 1.
+3. Leave the Sheet 2 as blank.
+4. Open UiPath Studio and select 'Create new project' 
+5. Select the activity Tab and drag and drop a sequence.
+6. Insert an message box into sequence to display an message.
+7. Assign the variables.
+8. Read the data from sheet 1.
+9. Add a filter using Filter Data Table.
+10. Write the filtered data to the sheet 2.
+11. Execute the program.
 
 
 ## Built With
