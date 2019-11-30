@@ -8,9 +8,9 @@ This project can be used to filter failure student from the Excel spread sheet a
 
 ### Prerequisites
 
-* Windows 10 or 7
+* Windows 10 or 7.
 
-* Microsoft .net Framework version 4.5 or higher
+* Microsoft .net Framework version 4.5 or higher.
 
 ### Procedure
 
